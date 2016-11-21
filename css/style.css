@@ -1,0 +1,17 @@
+h1{
+	font-size: 2em;
+	color: #006BB3;
+	padding-left: 100px;
+	padding-top: 30px;
+}
+
+#entete{
+	width: 100%;
+}
+
+#menu{
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+}
+

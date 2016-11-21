@@ -1,0 +1,7 @@
+#dictionnaire div.main{
+	float: none;
+}
+
+table#table-dictionnaire thead{
+	cursor: pointer;
+}
